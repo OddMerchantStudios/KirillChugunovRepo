@@ -8,12 +8,14 @@
 
 * The founders hoped SoFi could provide more affordable options for those taking on debt to fund their education. The company's loan program was a pilot at Stanford; for this pilot program, 40 alumni loaned about $2 million to approximately 100 students, for an average of $20,000 per student.
 
-* How is the company funded? How much funding have they received?
+* In May 2012 SoFi becomes the first company to introduce refinancing of federal and private student loans.
+
+* In September 2012, SoFi raised $77.2 million from Baseline Ventures along with several other private investors.
 
 
 ## Business Activities:
 
-* What specific financial problem is the company or project trying to solve?
+* SoFi wealth was launched in 2017, to help young families and couples to prepare for retirement, or life events like buying a first home.
 
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
 What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
