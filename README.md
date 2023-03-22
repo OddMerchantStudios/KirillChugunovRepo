@@ -1,10 +1,10 @@
 # SoFi Technologies, Inc.
-### NASDAQ : SOFI 
-EPS -0.24   
-Market Cap $5.21B
-</br>
+#### NASDAQ : SOFI 
+#### EPS -0.24   
+#### Market Cap $5.21B
 </br>
 
+![SoFi Logo](images/SoFi_logo.png)
 ## Overview and Origin
 
 * SoFi was founded in the summer of 2011 by Mike Cagney, Dan Macklin, James Finnigan, and Ian Brady, four students who met at the Stanford Graduate School of Business.
@@ -25,6 +25,7 @@ There are over 80 million people in the US alone who fit this group, giving comp
 
 * What makes SoFi appealing is their relations with customers: zero-commission trading, financial planning, 1 on 1 customer support, and career services.
 All of these exlusive perks are accessible to customers at no cost, while traditional institutions would charge hefty fees. 
+![Policy](images/policy.png)
 
 * SoFi has a massive technical stack, the coding languages go from Python to Swift. While for the devops they use GitLab, VS Code, Docker and many other tools.
 
@@ -56,6 +57,7 @@ All of these exlusive perks are accessible to customers at no cost, while tradit
 * Also, SoFi is still unprofitable, with a reported loss of $320.4 Million dollars in 2022. This is mainly due to the Silicon Valley's "Grow Now, Turn Profit Later" approach, which fell out of favor after the Fed started tightening it's monetary policy. 
 
 * The sudden change in market sentiment lead to SoFi losing around 70% of it's stock value since the peak of 2021. 
+![Stock Chart](images/stock_chart.png)
 
 
 ## Recommendations
@@ -74,4 +76,4 @@ All of these exlusive perks are accessible to customers at no cost, while tradit
 * [The Business Model Analyst](https://businessmodelanalyst.com/sofi-business-model/)
 * [The Motley Fool](https://www.fool.com/investing/2022/12/04/why-sofi-technologies-lost-11-in-november/)
 
-![Test](images/unnamed.jpg)
+
