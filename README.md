@@ -1,5 +1,7 @@
 # SoFi Technologies, Inc.
-### NASDAQ : SOFI
+### NASDAQ : SOFI 
+EPS -0.24   
+Market Cap $5.21B
 </br>
 </br>
 
@@ -28,7 +30,7 @@ All of these exlusive perks are accessible to customers at no cost, while tradit
 
 * The engineers use both quantitative and qualitative information (i.e. what their members are doing in the app, what are they giving as feedback already, and what are some open needs they have) which helps them better understand the member and where the team should focus.
 
-* For instanse, Senior Staff Engineer, Donald Cestnik has this to say about prioritizing certain security aspects, which were addressed because of the analysis above:
+* For instanse, Senior Staff Engineer, Donald Cestnik has this to say about prioritizing certain security aspects, which were addressed because customer data analysis was utilized:
 "_Accurately identifying fraud and providing risk scoring keeps our costs down and boosts trust._"
 
 
@@ -40,30 +42,36 @@ All of these exlusive perks are accessible to customers at no cost, while tradit
 
 * Banks typically turn to credit bureaus or company accounts to inform their decisions. This means they are constrained by a narrowly-defined data set that leaves them little room for manoeuvre. Fintechs, by contrast, base their decisions on a much wider set of parameters. A case in point is SoFi, which utilizes large datasets to make their decisions.
 
-* In recent years a new model started emerging: Buy Now Pay Later, with Affirm, at 2.87B market cap, being the clear leader and innovator. Other competitors include companies like Klarna, LightStream and even PayPal.
+* But competition in the lending space is still fierce: in recent years a new model started emerging: Buy Now Pay Later, with Affirm, at 2.87B market cap, being the clear leader and innovator. Other competitors include companies like Klarna, LightStream and even PayPal.
 
 
 ## Results
 
 * SoFi has been growing at a very impressive rate since it was founded. Thanks to smart business decisions and a robust model, built on customer trust, SoFi generated 521 million of assets under management as of 2021
 
-* One of the most important KPIs for banks (which SoFi could be considered), net interest margin (NIM) reveals a bank's net profit on interest-earning assets, such as loans or investment securities.
+* One of the most important KPIs for banks (which SoFi could be considered), is net interest margin (NIM), which reveals a bank's net profit on interest-earning assets, such as loans or investment securities.
 
-* SoFI has a NIM of 6.5%, which is impressive, when compared to the industry average of 3.5%, although it is still very tiny in terms of assets under management. 
+* SoFI has a NIM of 6.5%, which is impressive, when compared to the industry average of 3.5%, although it is still comparatively tiny in terms of assets under management. 
 
-* However SoFi is still unprofitable, mainly due to the Silicon Valley's "Grow Now, Turn Profit Later" approach, which fell out of favor after the Fed started tightening it's monetary policy.  
+* Also, SoFi is still unprofitable, with a reported loss of $320.4 Million dollars in 2022. This is mainly due to the Silicon Valley's "Grow Now, Turn Profit Later" approach, which fell out of favor after the Fed started tightening it's monetary policy. 
 
-* This lead to SoFi losing around 70% of it's stock value since the peak of 2021. The reported loss was $320.4 Million dollars in 2022.
+* The sudden change in market sentiment lead to SoFi losing around 70% of it's stock value since the peak of 2021. 
 
 
 ## Recommendations
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+* There are many ways SoFi could expand, one of them being the aforementioned Buy Now Pay Later model, which is mainly being used by young adults - their target demographic. 
 
-* Why do you think that offering this product or service would benefit the company?
+* Improving and expanding their services as a trading platofrm is also worth considering, as there is a lot of correlation with the demographic of Robinhood and Webull. This wouldn't be especially cost heavy, since SoFi already has a robust trading app, and with some polish it could become the app of choice for millenials and gen-z.
 
-* What technologies would this additional product or service utilize?
+* While UI/UX side of SoFi apps looks clean, it does not feel intuitive and simple to navigate (which made Robinhood successul). Utilizing customer experience sureys would go a long way.
 
-* Why are these technologies appropriate for your solution?
+# Main Research Materials
+* [Wikipedia](https://en.wikipedia.org/wiki/SoFi)
+* [SoFi Website](https://www.sofi.com/)
+* [Seeking Alpha](https://seekingalpha.com/symbol/SOFI/income-statement)
+* [Stackshare](https://stackshare.io/sofi/sofi)
+* [The Business Model Analyst](https://businessmodelanalyst.com/sofi-business-model/)
+* [The Motley Fool](https://www.fool.com/investing/2022/12/04/why-sofi-technologies-lost-11-in-november/)
 
 ![Test](images/unnamed.jpg)
