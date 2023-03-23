@@ -7,7 +7,7 @@
 ![SoFi Logo](images/SoFi_logo.png)
 ## Overview and Origin
 
-* **`SoFi`** was founded in the summer of 2011 by **Mike Cagney**, **Dan Macklin**, **James Finnigan**, and **Ian Brady**, four students who met at the ***Stanford Graduate School*** of Business.
+* According to the [company's website](https://www.sofi.com/our-story/), **`SoFi`** was founded in the summer of 2011 by **Mike Cagney**, **Dan Macklin**, **James Finnigan**, and **Ian Brady**, four students who met at the ***Stanford Graduate School*** of Business.
 ![Foundes](images/founders.jpg)
 * The founders hoped `SoFi` could provide more affordable options for those taking on debt to fund their education. The company's loan program was a pilot at Stanford; for this pilot program, 40 alumni loaned about $2 million to approximately 100 students, for an average of $20,000 per student.
 
@@ -75,6 +75,7 @@ All of these exlusive perks are accessible to customers at no cost, while tradit
 ![app ui](images/app.png)
 
 # Main Research Materials
+* [Investopedia](https://www.investopedia.com/sofi-invest-review-4767412)
 * [Wikipedia](https://en.wikipedia.org/wiki/SoFi)
 * [SoFi Website](https://www.sofi.com/)
 * [Seeking Alpha](https://seekingalpha.com/symbol/SOFI/income-statement)
